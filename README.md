@@ -11,5 +11,5 @@ Web application that take a user birthdays, calculate the of the week that they 
 ## Contact Information
 I can be reached out at [ayuelgarang105@gmail.com.
 ## License
-* *MIT License:*
+* *MIT License*
 * Copyright (c) 2021 **Gabriel Ayuel**
