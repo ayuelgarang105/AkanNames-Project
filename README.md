@@ -9,7 +9,7 @@ Web application that takes a user birthdays, calculate the of the week that they
 * [JS]
 * [Boostraps]
 ## Contact Information
-I can be reached out at [ayuelgarang105@gmail.com
+I can be reached out at ayuelgarang105@gmail.com
 ## License
 * *MIT License*
 * Copyright (c) 2021 **Gabriel Ayuel**
