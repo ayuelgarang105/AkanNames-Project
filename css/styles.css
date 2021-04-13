@@ -1,0 +1,32 @@
+h1{
+  text-align: center;
+  font-family: serif;
+  font-weight: bold;
+}
+#name{
+  color: rgb(240, 59, 240);
+}
+h3{
+  text-align: center;
+  font-weight: bold;
+}
+h2{
+  text-align: center;
+}
+textarea{
+  margin-top: 10px;
+}
+#output{
+  width: 400px;
+  height: 50px;
+}
+#details{
+  padding-left: 360px;
+  font-size: 30px;
+  color: rgb(12, 13, 250);
+}
+.text-justify{
+  font-family: sans-serif;
+  font-size: 20px;
+  color: black;
+}
