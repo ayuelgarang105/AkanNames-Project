@@ -2,7 +2,7 @@
 ## Author
 **Gabriel Ayuel**
 ## Description
-Web application that take a user birthdays, calculate the of the week that they were born and then depending on the gender output
+Web application that takes a user birthdays, calculate the of the week that they were born and then depending on the gender output
 ## Technologies Used
 * [HTML5]
 * [CSS]
