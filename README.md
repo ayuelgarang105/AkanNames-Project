@@ -1,7 +1,7 @@
 # Akan Names
 ## Author
 **Gabriel Ayuel**
-## Description
+## Description:-
 Web application that takes a user birthdays, calculate the of the week that they were born and then depending on the gender output
 ## Technologies Used
 * [HTML5]
